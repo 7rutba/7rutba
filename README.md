@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from Bharat</h3>
+<h3 align="center">A passionate MERN stack developer from Bharat</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7rutba&label=Profile%20views&color=0e75b6&style=flat" alt="7rutba" /> </p>
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/7rutba" target="blank"><img src="https://img.shields.io/twitter/follow/7rutba?logo=twitter&style=for-the-badge" alt="7rutba" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently working on  **MERN projects**
 
-- 💬 Ask me about **Bootstrap ,CSS ,HTML ,Java**
+- 💬 Ask me about **REACT, NODE , Mongodb , Express ,Bootstrap ,CSS ,HTML ,Javascript**
 
-- 📫 How to reach me **rieshapply@gmail.com**
+- 📫 How to reach me **riteshrayyadavg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
